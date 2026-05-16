@@ -33,6 +33,14 @@ I used AI tools occasionally for brainstorming design ideas, improving some cont
 <img width="1897" height="1090" alt="notice3" src="https://github.com/user-attachments/assets/855d4e4a-b324-4e61-9d51-e14d57d2f7bd" />
 <img width="1902" height="1087" alt="notice4" src="https://github.com/user-attachments/assets/c9901979-cbf2-49ad-9f50-3d356862c6b0" />
 <img width="1897" height="1092" alt="notice1" src="https://github.com/user-attachments/assets/f3b5fa6e-7d1c-4b53-93c1-c3caea4c4bf4" />
+# video tutorial 
+
+
+
+https://github.com/user-attachments/assets/edda3bdc-9696-4195-8e21-011ce8e0a875
+
+
+
 # author
 MOHAMED RAYYAN M
 
