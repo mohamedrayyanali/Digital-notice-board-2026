@@ -1,5 +1,5 @@
 # Digital-notice-board-2026
-https://6a080d0b5d1014af7cc6b9f0--sunny-rugelach-c92ea3.netlify.app/
+https://sunny-rugelach-c92ea3.netlify.app/
 # Project description
 This website is a modern interactive digital notice board designed for productivity, creativity, and idea organization. It combines real-time utilities like a world clock and calendar with a fully customizable workspace where users can create draggable sticky notes, sketch freely using colored markers, upload images, and arrange everything visually on a realistic virtual notice board.
 
